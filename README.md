@@ -11,7 +11,7 @@
    - wyświetli zwrócony ciąg zakodowany w Base64 i wyświetli na ekran
    - będzie podawał takie same wyniki jak przykładowe implementacje zawarte w NR4C-6
  - zaszyfrowanie oraz podpisanie swojego pliku z rozwiązaniem za pomocą GPG na klucz podany przez Organizatora
- - stworzenie commita (żeby GitHub wyświetlał go jako "Verified" + był podpisany Tw kluczem GPG) na swoim forku z zaszyfrowanym rozwiązaniem w pliku `<Twój nick>.rozwiązanie.txt` oraz Twoim kluczem prywatnym w pliku `<Twój nick>.klucz.txt`
+ - stworzenie commita (żeby GitHub wyświetlał go jako "Verified" + był podpisany Tw kluczem GPG) na swoim forku z zaszyfrowanym rozwiązaniem w pliku `<Twój nick>.rozwiązanie.txt` oraz Twoim kluczem publicznym w pliku `<Twój nick>.klucz.txt`
  - spushowanie commita na swojego forka
  - stworzenie Pull Requesta ze swojego forka do repo Zayebeast/procedura
 4. Organizator zamieści swoje rozwiązanie, a następnie udostępni klucz do szyfrowania rozwiązań w pliku klucz.pub.txt
